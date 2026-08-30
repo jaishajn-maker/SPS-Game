@@ -7,7 +7,7 @@ A simple console-based Stone Paper Scissors game where the user plays against th
 ## How to Run
 1. Make sure Python is installed on your computer.
 2. Clone this repository:
-   git clone https://github.com/your-username/SPS-Game.git
+   git clone spsgame.py
 3. Navigate into the folder:
    cd SPS-Game
 4. Run the game:
